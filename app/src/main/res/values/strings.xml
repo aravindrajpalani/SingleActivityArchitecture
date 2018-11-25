@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AndroidFragments</string>
+
+    <string name="home">HOME</string>
+    <string name="profile">PROFILE</string>
+    <string name="favourite">FAVOURITE</string>
+</resources>
